@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 """Convert zim wiki syntax to markdown
 
 Stripped and modified from markdown2.py
